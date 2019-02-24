@@ -16,6 +16,14 @@
 
 ## Java 开源框架
 
+### Spring
+- [加载 XML 启动 Spring 容器几种方](https://github.com/LiHuaYang/note/issues/11)
+
+
+### SpringBoot
+- [获取 properties 属性值几种方式](https://github.com/LiHuaYang/note/issues/10)
+
+
 ## Java 关键技术
 
 ## 开发周边

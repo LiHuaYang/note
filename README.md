@@ -15,8 +15,15 @@
 - [Java IO 流 - File 类](https://github.com/LiHuaYang/note/issues/5)
 - [Java IO 流 - 其他流对象](https://github.com/LiHuaYang/note/issues/6)
 
-### Java 线程
-- [Java 线程 - 线程简介](https://github.com/LiHuaYang/note/issues/7)
+### Java 集合框架
+- [Java 集合 - 总体框架](https://github.com/LiHuaYang/note/issues/12)
+- [Java 集合 - Collection 架构](https://github.com/LiHuaYang/note/issues/13)
+- [Java 集合 - ArrayList 类](https://github.com/LiHuaYang/note/issues/14)
+
+### Java 并发编程
+- [Java 并发 - 线程简介](https://github.com/LiHuaYang/note/issues/7)
+- [Java 并发 - 并发基础](https://github.com/LiHuaYang/note/issues/15)
+- [Java 并发 - 并发模拟](https://github.com/LiHuaYang/note/issues/16)
 
 ## Java 网站开发
 - [Java 网站应用部署](https://github.com/LiHuaYang/note/issues/8)
@@ -26,10 +33,8 @@
 ### Spring
 - [加载 XML 启动 Spring 容器几种方式](https://github.com/LiHuaYang/note/issues/11)
 
-
 ### SpringBoot
 - [获取 properties 属性值几种方式](https://github.com/LiHuaYang/note/issues/10)
-
 
 ## Java 关键技术
 

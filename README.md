@@ -1,5 +1,12 @@
 ## Java 基础进阶
 
+### 数据结构与算法
+- [数据结构 - 数组](https://github.com/LiHuaYang/daily/issues/17)
+- [数据结构 - 链表](https://github.com/LiHuaYang/daily/issues/18)
+- [数据结构 - 栈](https://github.com/LiHuaYang/daily/issues/19)
+- [数据结构 - 队列](https://github.com/LiHuaYang/daily/issues/20)
+- [算法 - 递归](https://github.com/LiHuaYang/daily/issues/21)
+
 ### Java IO 体系
 - [Java IO 流 - 简介](https://github.com/LiHuaYang/note/issues/1)
 - [Java IO 流 - 字符流](https://github.com/LiHuaYang/note/issues/2)
@@ -17,7 +24,7 @@
 ## Java 开源框架
 
 ### Spring
-- [加载 XML 启动 Spring 容器几种方](https://github.com/LiHuaYang/note/issues/11)
+- [加载 XML 启动 Spring 容器几种方式](https://github.com/LiHuaYang/note/issues/11)
 
 
 ### SpringBoot

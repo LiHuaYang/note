@@ -41,7 +41,9 @@
 ## 开发周边
 - [IDE 使用 - 工具快捷键](https://github.com/LiHuaYang/note/issues/9)
 
+## 项目管理
 
+- [项目管理工具 - Maven](https://juejin.im/post/5cbf27a95188250a505c2cd2)
 
 
 

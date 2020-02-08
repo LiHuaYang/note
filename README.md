@@ -48,5 +48,11 @@
 ## 测试
 - [Spock 单元测试实践](https://juejin.im/post/5d8ad44a51882509615bc937)
 
+## 实战笔记
+- [使用 intercepter + 自定义注解实现简单基于 url 的权限控制](https://juejin.im/post/5e1d2b63f265da3e21709e29)
+- [处理枚举类 Value 和 Label 之间映射的几种方案](https://juejin.im/post/5e3d3c97518825490369329d)
 
+## 第三方解决方案
 
+监控
+- [Sentinel 笔记](https://juejin.im/post/5deda488518825124a05b07c)

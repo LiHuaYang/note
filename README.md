@@ -38,12 +38,17 @@
 
 ## Java 关键技术
 
+## 中间件
+- [Redis 笔记-持久化（Persistence）](https://juejin.im/post/5e637d52518825494707f069)
+- [Redis 笔记-哨兵（Sentinel）](https://juejin.im/post/5e65aefbf265da573c0c8871)
+
 ## 开发周边
 - [IDE 使用 - 工具快捷键](https://github.com/LiHuaYang/note/issues/9)
 
 ## 项目管理
 
 - [项目管理工具 - Maven](https://juejin.im/post/5cbf27a95188250a505c2cd2)
+- [项目管理工具 - Maven 配置文件 proxy、server、repository、mirror 节点笔记](https://juejin.im/post/5e53d308e51d4526f363a870)
 
 ## 测试
 - [Spock 单元测试实践](https://juejin.im/post/5d8ad44a51882509615bc937)
@@ -53,6 +58,5 @@
 - [处理枚举类 Value 和 Label 之间映射的几种方案](https://juejin.im/post/5e3d3c97518825490369329d)
 
 ## 第三方解决方案
-
 监控
 - [Sentinel 笔记](https://juejin.im/post/5deda488518825124a05b07c)

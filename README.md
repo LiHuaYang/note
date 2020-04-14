@@ -30,6 +30,9 @@
 
 ## Java 开源框架
 
+### MyBatis
+- [MyBatis 笔记-概览](https://juejin.im/post/5e91ce146fb9a03c42379d47)
+
 ### Spring
 - [加载 XML 启动 Spring 容器几种方式](https://github.com/LiHuaYang/note/issues/11)
 

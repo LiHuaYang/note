@@ -54,7 +54,8 @@
 - [项目管理工具 - Maven 配置文件 proxy、server、repository、mirror 节点笔记](https://juejin.im/post/5e53d308e51d4526f363a870)
 
 ## 测试
-- [Spock 单元测试实践](https://juejin.im/post/5d8ad44a51882509615bc937)
+- [Spock 单元测试初识](https://juejin.im/post/5d8ad44a51882509615bc937)
+- [Spock 单元测试实践中的一些问题](https://juejin.im/post/5ece5ec06fb9a047d245cb3a)
 
 ## 实战笔记
 - [使用 intercepter + 自定义注解实现简单基于 url 的权限控制](https://juejin.im/post/5e1d2b63f265da3e21709e29)

@@ -25,6 +25,9 @@
 - [Java 并发 - 并发基础](https://github.com/LiHuaYang/note/issues/15)
 - [Java 并发 - 并发模拟](https://github.com/LiHuaYang/note/issues/16)
 
+### Java8 
+- [Java8 - Lambda+Stream 笔记](https://juejin.im/post/5ed0b9ee51882543116e271a)
+
 ## Java 网站开发
 - [Java 网站应用部署](https://github.com/LiHuaYang/note/issues/8)
 
@@ -47,9 +50,9 @@
 
 ## 开发周边
 - [IDE 使用 - 工具快捷键](https://github.com/LiHuaYang/note/issues/9)
+- [Eclipse MAT 使用]()
 
 ## 项目管理
-
 - [项目管理工具 - Maven](https://juejin.im/post/5cbf27a95188250a505c2cd2)
 - [项目管理工具 - Maven 配置文件 proxy、server、repository、mirror 节点笔记](https://juejin.im/post/5e53d308e51d4526f363a870)
 

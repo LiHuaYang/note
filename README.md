@@ -65,6 +65,7 @@
 - [使用 intercepter + 自定义注解实现简单基于 url 的权限控制](https://juejin.im/post/5e1d2b63f265da3e21709e29)
 - [处理枚举类 Value 和 Label 之间映射的几种方案](https://juejin.im/post/5e3d3c97518825490369329d)
 - [【魔鬼在细节】一次分页|导出查询优化小记](https://juejin.im/post/6873268658827853838)
+- [几个外部接口封装的较佳实践](https://juejin.im/post/6884945023905988622)
 
 ## 第三方解决方案
 监控

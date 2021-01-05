@@ -28,9 +28,6 @@
 ### Java8 
 - [Java8 - Lambda+Stream 笔记](https://juejin.im/post/5ed0b9ee51882543116e271a)
 
-## Java 网站开发
-- [Java 网站应用部署](https://github.com/LiHuaYang/note/issues/8)
-
 ## Java 开源框架
 
 ### MyBatis
@@ -53,15 +50,18 @@
 - [Eclipse MAT 使用]()
 
 ## 项目管理
-- [项目管理工具 - Maven 笔记](https://juejin.im/post/5cbf27a95188250a505c2cd2)
-- [项目管理工具 - 关于配置文件中 proxy、server、repository、mirror 节点笔记](https://juejin.im/post/5e53d308e51d4526f363a870)
-- [项目管理工具 - 再解 '聚合' 与 '继承' 特性](https://juejin.im/post/6862957627879063566)
+### Maven
+- [Maven 笔记](https://juejin.im/post/5cbf27a95188250a505c2cd2)
+- [关于配置文件中 proxy、server、repository、mirror 节点笔记](https://juejin.im/post/5e53d308e51d4526f363a870)
+- [再解 '聚合' 与 '继承' 特性](https://juejin.im/post/6862957627879063566)
 
 ## 测试
+### 单元测试
 - [Spock 单元测试初识](https://juejin.im/post/5d8ad44a51882509615bc937)
 - [Spock 单元测试实践中的一些问题](https://juejin.im/post/5ece5ec06fb9a047d245cb3a)
 
-## 实战笔记
+## 编码实战
+- [JavaWeb 应用部署](https://github.com/LiHuaYang/note/issues/8)
 - [使用 intercepter + 自定义注解实现简单基于 url 的权限控制](https://juejin.im/post/5e1d2b63f265da3e21709e29)
 - [处理枚举类 Value 和 Label 之间映射的几种方案](https://juejin.im/post/5e3d3c97518825490369329d)
 - [【魔鬼在细节】一次分页|导出查询优化小记](https://juejin.im/post/6873268658827853838)
@@ -69,6 +69,9 @@
 - [基于 SpringValidation 的参数校验较佳实践](https://juejin.im/post/6890076966171934733/)
 - [命令、模板模式结合 Spring 在后端接口项目中的一次实践](https://juejin.cn/post/6911219421721821198)
 
-## 第三方解决方案
-监控
+## 解决方案
+
+### 限流
 - [Sentinel 笔记](https://juejin.im/post/5deda488518825124a05b07c)
+
+### 监控

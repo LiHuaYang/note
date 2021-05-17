@@ -68,6 +68,9 @@
 - [几个外部接口封装的较佳实践](https://juejin.im/post/6884945023905988622)
 - [基于 SpringValidation 的参数校验较佳实践](https://juejin.im/post/6890076966171934733/)
 - [命令、模板模式结合 Spring 在后端接口项目中的一次实践](https://juejin.cn/post/6911219421721821198)
+- [异步结果通知实现-整体介绍与内存中实现](https://juejin.cn/post/6936802804937785351)
+- [异步结果通知实现-基于 Redis 实现](https://juejin.cn/post/6938779316847116325)
+- [基于 Mybatis discriminator 语法与父子表、实体继承结合的一次实践](https://juejin.cn/post/6962074644773863438)
 
 ## 解决方案
 

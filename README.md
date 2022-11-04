@@ -30,10 +30,14 @@
 
 ## Java 开源框架
 
+### Apache HttpAsyncClient
+- [Apache HttpAsyncClient 源码解析](https://juejin.cn/post/7127896247146561573)
+
 ### MyBatis
 - [MyBatis 笔记-概览](https://juejin.im/post/5e91ce146fb9a03c42379d47)
 - [关于 MyBatis 是如何被集成进 Spring 的](https://juejin.cn/post/7004390222934999076)
 - [基于 Mybatis discriminator 语法与父子表、实体继承结合的一次实践](https://juejin.cn/post/6962074644773863438)
+- [Mybatis 结果集映射源码解析](https://juejin.cn/post/7087740915984367623)
 
 ### Spring & SpringMVC
 - [加载 XML 启动 Spring 容器几种方式](https://github.com/LiHuaYang/note/issues/11)
